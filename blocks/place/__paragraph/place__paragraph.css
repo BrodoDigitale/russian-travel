@@ -1,0 +1,10 @@
+.place__paragraph {
+    font-size: 18px;
+    line-height: 163%;
+    margin: 0 0 26px;
+    align-self: flex-start;
+}
+
+.place__paragraph:last-of-type {
+    margin: 0;
+}

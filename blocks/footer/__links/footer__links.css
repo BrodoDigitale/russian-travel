@@ -1,0 +1,10 @@
+.footer__links {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0;
+}
+
+.footer__links:last-child {
+    margin-right: 0;
+}
