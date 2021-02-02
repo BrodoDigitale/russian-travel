@@ -2,6 +2,7 @@
 
 ### Completely responsive/adaptive webpage
 Link to the project: https://brododigitale.github.io/russian-travel/
+
 Projected with:
 * HTML
 * CSS flexbox, CSS grids, Media Queries
