@@ -2,6 +2,7 @@
     list-style: none;
     display: flex;
     justify-content: flex-start;
+    align-items: center;
     padding: 0;
     margin: 0;
 }
@@ -9,7 +10,8 @@
 @media screen and  (max-width: 767px){
     .footer__links {
         flex-direction: column;
-        justify-content: space-around;
-        min-height: 248px;
+        justify-content: flex-start;
+        align-items: flex-start;
+        gap: 32px;
     }
 }

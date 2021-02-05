@@ -2,7 +2,14 @@
     align-self: end;
 }
 
-@media screen and  (max-width: 767px) {
+
+@media screen and (min-width: 322px) and (max-width: 767px){
+    .place__website {
+    align-self: center;
+    text-align: center;
+    }
+}
+@media screen and  (max-width: 321px) {
     .place__website {
         margin-left: 16px;
     }

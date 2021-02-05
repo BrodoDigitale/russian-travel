@@ -1,11 +1,11 @@
-# Russia Travel Project
+# Проект "Путешествия по России"
 
-### Completely responsive/adaptive webpage
-Link to the project: https://brododigitale.github.io/russian-travel/
+### Верстка отзывчивой/адаптивной веб-страницы
+Ссылка на проект: https://brododigitale.github.io/russian-travel/
 
-Projected with:
+Применяются технологии:
 * HTML
-* CSS flexbox, CSS grids, Media Queries
-* BEM structure
-* Figma layout: (https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+* CSS флексбокс, CSS грид, Media Queries
+* файловая структура БЭМ
+* работа по макету из фигмы: (https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
 

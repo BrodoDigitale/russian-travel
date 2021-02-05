@@ -2,16 +2,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 92.5%;
-    padding-bottom: 24px;
+    box-sizing: border-box;
+    padding: 0 48px 24px;
+    width: 100%;
 }
 
 @media screen and  (max-width: 767px){
     .footer {
         flex-direction: column;
-        justify-content: space-between;
+        gap: 32px;
         align-items: flex-start;
-        min-height: 310px;
+        justify-content: flex-start;
         max-width: 100%;
         padding-left: 16px;
     }
