@@ -14,10 +14,15 @@ font-weight: 900;
     }
 }
 
-@media screen and  (max-width: 767px) {
+@media screen and (max-width: 767px) {
     .place__title {
         font-size: 32px;
         line-height: 35px;
         margin-left: 16px;
+    }
+}
+@media screen and   (max-width: 425px) {
+    .place__title {
+        justify-self: start;
     }
 }
