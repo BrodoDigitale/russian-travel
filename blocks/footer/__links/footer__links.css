@@ -9,9 +9,7 @@
 
 @media screen and  (max-width: 767px){
     .footer__links {
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: flex-start;
-        gap: 32px;
+        display: grid;
+        row-gap: 32px;
     }
 }
