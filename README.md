@@ -1,7 +1,7 @@
 ## Russian Travel Project
 
 ### Adaptive/responsive website
-Project on [github pages](https://brododigitale.github.io/russian-travel/)  
+See project on [github pages](https://brododigitale.github.io/russian-travel/)  
 [Figma layout](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
 
 Project tech stack:
@@ -10,4 +10,6 @@ Project tech stack:
 - CSS Flexbox;
 - CSS Grid; 
 - Media Queries;
-- BEM structure;
+- BEM structure;  
+
+
