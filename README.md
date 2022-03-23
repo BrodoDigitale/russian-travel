@@ -11,5 +11,5 @@ Project tech stack:
 - CSS Grid; 
 - Media Queries;
 - BEM structure;  
-![](russian-travel.gif)
+![](russian-travel-640px.gif)
 
